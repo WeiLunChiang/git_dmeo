@@ -1,0 +1,21 @@
+From e4379490de3cdf0226cc4456e8571c939bd598eb Mon Sep 17 00:00:00 2001
+From: Wei-Lun Chiang <luis666161125@gmail.com>
+Date: Sat, 5 Sep 2020 02:44:44 +0800
+Subject: [PATCH 2/2] cat
+
+---
+ cat_file.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/cat_file.txt b/cat_file.txt
+index 3dede70..cfa83fb 100644
+--- a/cat_file.txt
++++ b/cat_file.txt
+@@ -1 +1 @@
+-Cat 123
+\ No newline at end of file
++Cat
+\ No newline at end of file
+-- 
+2.28.0.windows.1
+
